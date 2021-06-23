@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box {
+  @apply container h-1 w-12 bg-yellow-600;
+}
+.something {
+  @apply text-7xl;
+}
